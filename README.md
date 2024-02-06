@@ -1,4 +1,4 @@
 # leet-code-array-exercises
 
-Leet Code array problems: all difficulties (in python and java - sometimes)
+Leet Code Array Problems: all difficulties (python and java)
 Luiz Felipe Levin Diniz - 2024
